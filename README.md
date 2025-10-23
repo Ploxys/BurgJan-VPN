@@ -1,7 +1,7 @@
 # BurgJan
 
 ## **A proxy server–client resistant to blocking**
-
+### Подключатся к локальному серверу по SOCKS5
 ⸻
 
 ## 🧩 Overview
