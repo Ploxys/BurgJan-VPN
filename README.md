@@ -4,7 +4,7 @@
 
 ⸻
 
-## 🧩 Overview**
+## 🧩 Overview
 
 BurgJan achieves resilience by fully imitating HTTPS traffic and DNS requests.
 
